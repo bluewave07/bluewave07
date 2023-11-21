@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Software Test Automation**
 
-- 🌱 I’m currently learning **IOS App Development*
+- 🌱 I’m currently learning **IOS App Development**
 
 - 👯 I’m looking to collaborate on **IOS App**
 
