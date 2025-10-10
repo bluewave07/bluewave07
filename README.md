@@ -4,8 +4,6 @@
 <h3 align="center">QA Automation Engineer from Germany</h3>
 
 - 🔭 I’m currently working on **Software Test Automation Projects**
-- 🌱 I’m currently learning **iOS App Development**
-- 👯 I’m looking to collaborate on **Automation Frameworks and iOS Apps**
 - 💬 Ask me about **Cypress, Playwright, TypeScript, Selenium, Robot Framework**
 - 📫 Reach me at **akyurt.a@gmx.de**
 
