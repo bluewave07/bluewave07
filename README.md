@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Software Test Automation Projects**
 - 💬 Ask me about **Cypress, Playwright, TypeScript, Selenium, Robot Framework**
-- 📫 Reach me at **akyurt.a@gmx.de**
+
 
 </p>
 
